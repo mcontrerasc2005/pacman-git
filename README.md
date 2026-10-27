@@ -10,3 +10,4 @@ Pac-Man és un videojoc arcade clàssic en què el jugador controla un personatg
 ## Els fantasmes
 
 - [Blinky](blinky.md)
+- [Pinky](pinky.md)
