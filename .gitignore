@@ -1,0 +1,14 @@
+
+# Configuració local de Visual Studio Code
+.vscode/
+
+# Fitxers temporals i de sistema
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+
+# Fitxers de còpia de seguretat
+*~
+*.bak
