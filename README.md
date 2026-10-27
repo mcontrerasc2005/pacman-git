@@ -12,3 +12,4 @@ Pac-Man és un videojoc arcade clàssic en què el jugador controla un personatg
 - [Blinky](blinky.md)
 - [Pinky](pinky.md)
 - [Inky](inky.md)
+- [Clyde](clyde.md)
